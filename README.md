@@ -19,6 +19,9 @@ Please test this firmware and let us know if it misbehaves in any way. Volunteer
 
 __Not for production use. Use with caution!__
 
+## Issues
+If you have any issues related to the CR Touch please report it here, if not then report it directly to the Marlin firmware page.
+
 ## Building Marlin 2.1
 
 To build and upload Marlin you will use one of these tools:
