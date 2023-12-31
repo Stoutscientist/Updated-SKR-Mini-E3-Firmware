@@ -12,12 +12,9 @@
     <a href="https://fosstodon.org/@marlinfirmware"><img alt="Follow MarlinFirmware on Mastodon" src="https://img.shields.io/mastodon/follow/109450200866020466?domain=https%3A%2F%2Ffosstodon.org&logoColor=%2300B&style=social"></a>
 </p>
 
+#THIS FIRMWARE IS FOR TESTING ONLY - NOT RECOMMENDED FOR PRODUCTION USE, USE AT YOUR OWN RISK!
+
 Additional documentation can be found at the [Marlin Home Page](https://marlinfw.org/).
-Please test this firmware and let us know if it misbehaves in any way. Volunteers are standing by!
-
-## Marlin 2.1 Bugfix Branch
-
-__Not for production use. Use with caution!__
 
 ## Issues
 If you have any issues related to the CR Touch please report it here, if not then report it directly to the Marlin firmware page.
