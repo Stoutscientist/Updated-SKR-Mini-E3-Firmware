@@ -12,7 +12,7 @@
     <a href="https://fosstodon.org/@marlinfirmware"><img alt="Follow MarlinFirmware on Mastodon" src="https://img.shields.io/mastodon/follow/109450200866020466?domain=https%3A%2F%2Ffosstodon.org&logoColor=%2300B&style=social"></a>
 </p>
 
-#THIS FIRMWARE IS FOR TESTING ONLY - NOT RECOMMENDED FOR PRODUCTION USE, USE AT YOUR OWN RISK!
+# THIS FIRMWARE IS FOR TESTING ONLY - NOT RECOMMENDED FOR PRODUCTION USE, USE AT YOUR OWN RISK!
 
 Additional documentation can be found at the [Marlin Home Page](https://marlinfw.org/).
 
